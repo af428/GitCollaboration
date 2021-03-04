@@ -5,3 +5,5 @@ It can show which remotes are connected currently (show), add new connections (a
 git remote add example https://test@github.com/test/example.git
  git remote remove example
 These examples show, add, and remove.
+
+![pull-push-remote-repository.png](pull-push-remote-repository.png)

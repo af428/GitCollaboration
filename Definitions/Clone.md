@@ -3,3 +3,5 @@ The original repository can be located on the local filesystem or on remote mach
 The git clone command copies an existing Git repository. An example would be:
 
 git clone name
+
+![img_1.png](clone.png)

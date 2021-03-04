@@ -4,3 +4,5 @@ It's like when you save a file, except with Git, every time you save it creates 
 Commits usually contain a commit message which is a brief description of what changes were made. An example of how to use git commits would be:
 
 Git commit. 
+
+![img.png](commit.png)

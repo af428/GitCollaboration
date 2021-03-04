@@ -6,3 +6,5 @@ git rebase -i origin/master
 # whatever you are changing
 git push origin master
 In this example you want to fetch the master to make sure it is up to date, rebasing the changes on top of them, and pushing it
+
+![pull-push-remote-repository.png](pull-push-remote-repository.png)
