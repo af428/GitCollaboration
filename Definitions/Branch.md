@@ -3,3 +3,5 @@ This is the official working version of your project, and the one you see when y
 Do not mess with the master. An example of how to use git branching would be:
 
 Git branch name(whatever name you want the branch to be called).
+
+![img.png](branch.png)
